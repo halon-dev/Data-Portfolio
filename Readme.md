@@ -4,9 +4,11 @@ Welcome to the sample GitHub ReadME! Use this template as an outline for your da
 
 
 # Project Background
-Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
+Cyclistic is a public bike-share program operating in Chicago since 2016, offering a network of over 5,800 bicycles and more than 600 docking stations citywide. The fleet includes a variety of bike types—standard, adaptive, and cargo models—designed to serve a broad population, including riders with physical disabilities.
 
-Insights and recommendations are provided on the following key areas:
+The service accommodates two primary user types: casual riders, who pay per ride or per day, and annual members, who commit to longer-term usage. Casual riders tend to use the service for leisure, while members are more likely to rely on it for commuting and regular transportation.
+
+Historically, Cyclistic has used a wide-reaching marketing strategy to attract users. However, internal financial reviews have shown that long-term members are more valuable to the company in terms of revenue and engagement. As a result, the marketing director, Lily Moreno, has tasked the analytics team with identifying behavioral differences between casual riders and members. The objective is to support a targeted campaign that encourages more casual users to transition into annual memberships through insights drawn from trip usage patterns and rider trends.
 
 - **Category 1:** 
 - **Category 2:** 
