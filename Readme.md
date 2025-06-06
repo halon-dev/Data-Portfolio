@@ -1,7 +1,4 @@
-Welcome to the sample GitHub ReadME! Use this template as an outline for your data analytics projects. Include one ReadME per repository, with each repository storing one project. Remember, it's better to have quality over quantity - having 2 stellar business-relevant projects stands out much more than 3+ mediocre projects. Feel free to make a copy of this or fork this repository and make it your own. Happy portfolio-ing :) 
-
-
-
+# Cyclistic Insights: Boosting Memberships Through Data Analytics
 
 # Project Background
 Cyclistic is a public bike-share program operating in Chicago since 2016, offering a network of over 5,800 bicycles and more than 600 docking stations citywide. The fleet includes a variety of bike types—standard, adaptive, and cargo models—designed to serve a broad population, including riders with physical disabilities.
