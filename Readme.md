@@ -12,7 +12,7 @@ Historically, Cyclistic has used a wide-reaching marketing strategy to attract u
 - **Category 3:** 
 - **Category 4:** 
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
+The SQL queries used to inspect and clean the data for this analysis can be found here [link](SQL_Queries.md).
 
 Targed SQL queries regarding various business questions can be found here [link].
 
