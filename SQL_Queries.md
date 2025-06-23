@@ -8,6 +8,7 @@ RENAME COLUMN ride_id TO trip_id,
 RENAME COLUMN started_at TO start_time,
 RENAME COLUMN ended_at TO end_time,
 RENAME COLUMN member_casual TO usertype;
+```
 
 ### Query 2: Remove Non-Matching Columns from Q1
 
