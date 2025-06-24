@@ -5,7 +5,7 @@ Cyclistic is a public bike-share program operating in Chicago since 2016, offeri
 
 The service accommodates two primary user types: casual riders, who pay per ride or per day, and annual members, who commit to longer-term usage. Casual riders tend to use the service for leisure, while members are more likely to rely on it for commuting and regular transportation.
 
-Historically, Cyclistic has used a wide-reaching marketing strategy to attract users. However, internal financial reviews have shown that long-term members are more valuable to the company in terms of revenue and engagement. As a result, the marketing director, Lily Moreno, has tasked the analytics team with identifying behavioral differences between casual riders and members. The objective is to support a targeted campaign that encourages more casual users to transition into annual memberships through insights drawn from trip usage patterns and rider trends.
+Historically, Cyclistic has used a wide-reaching marketing strategy to attract users. However, internal financial reviews have shown that long-term members are more valuable to the company in terms of revenue and engagement.  The objective is to support a targeted campaign that encourages more casual users to transition into annual memberships through insights drawn from trip usage patterns and rider trends.
 
 - **Category 1:** Usage Behavior  
 - **Category 2:** Ride Duration and Time-of-Day Patterns  
@@ -74,7 +74,6 @@ The main database structure included two tables (`q1` and `q4`), which were merg
 ---
 
 ## Resources
-- [SQL Queries Used for Cleaning](SQL_Cleaning.md)
-- [SQL Queries for Insights](SQL_Analysis.md)
-- [Interactive Tableau Dashboard](Tableau_Link)
+- [SQL Queries](SQL_Queries.md)
+
 
